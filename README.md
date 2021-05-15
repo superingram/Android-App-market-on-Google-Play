@@ -10,8 +10,8 @@ This brings us to the following questions:
 Which category has the highest share of (active) apps in the market? <br>
 Is any specific category dominating the market? <br>
 Which categories have the fewest number of apps? <br>
-How can we effectively come up with strategies to size and price our app?
-Does the size of an app affect its rating?
-Do users really care about system-heavy apps or do they prefer light-weighted apps?
-Does the price of an app affect its rating?
+How can we effectively come up with strategies to size and price our app? <br>
+Does the size of an app affect its rating? <br>
+Do users really care about system-heavy apps or do they prefer light-weighted apps? <br>
+Does the price of an app affect its rating? <br>
 Do users always prefer free apps over paid apps?
